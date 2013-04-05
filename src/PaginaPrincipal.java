@@ -17,6 +17,7 @@ public class PaginaPrincipal {
 	        System.out.println(content);
 	        in.close();
 	    } catch (IOException e) {
+	    	System.out.println("erro");
 	    }
 
 	}
