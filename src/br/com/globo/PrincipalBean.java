@@ -1,11 +1,18 @@
 package br.com.globo;
 
 import java.io.BufferedReader;
+import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import java.net.MalformedURLException;
 import java.util.ArrayList;
 
 import javax.faces.bean.ManagedBean;
+import javax.media.Manager;
+import javax.media.MediaLocator;
+import javax.media.NoPlayerException;
+import javax.media.Player;
+import javax.print.attribute.standard.Media;
 
 @ManagedBean
 public class PrincipalBean {
@@ -17,6 +24,22 @@ public class PrincipalBean {
 	private String xmlPath = "C:/Users/Johann/Desktop/workspace/leitor-globo/src/br/com/globo/g1principal.xml";
 	
 	public PrincipalBean() {
+		File f = new File("C:/Users/Johann/Desktop/workspace/leitor-globo/audioprincipal.wav");
+		MediaLocator ml = null;
+		try {
+			ml = new MediaLocator(f.toURL());
+		} catch (MalformedURLException e2) {
+			// TODO Auto-generated catch block
+			e2.printStackTrace();
+		}
+		Player p = null;
+		try {
+			p = Manager.createPlayer(ml);
+		} catch (NoPlayerException | IOException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+		p.start();
 		try {
 	        BufferedReader in = new BufferedReader(new 
 	        		FileReader(xmlPath));

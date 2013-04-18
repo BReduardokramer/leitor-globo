@@ -1,356 +1,340 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
-  <channel>
-    <title>G1</title>
-    <link>http://g1.globo.com</link>
-    <description></description>
-    <language>pt-BR</language>
-    <copyright>© Todos os direitos reservados.</copyright>
-    <lastBuildDate>Thu, 11 Apr 2013 20:37:54 -0300</lastBuildDate>
-    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    <image>
-      <url>http://g1.globo.com/Portal/globonoticias/img/tit_header_rss.jpg</url>
-      <title>G1</title>
-      <link>http://g1.globo.com</link>
-      <width>144</width>
-      <height>60</height>
-      <description></description>
-    </image>
-    <item>
-      <title>Polícia apreende quase uma tonelada de palmito em fábrica clandestina</title>
-      <link>http://g1.globo.com/sp/santos-regiao/noticia/2013/04/policia-apreende-quase-uma-tonelada-de-palmito-em-fabrica-clandestina.html</link>
-      <description>Local fica na cidade de Sete Barras, no interior de São Paulo.
-Responsável pelo produto vai responder na Justiça por crime ambiental.</description>
-      <category>Santos e Região</category>
-      <pubDate>Thu, 11 Apr 2013 20:36:34 -0300</pubDate>
-    </item>
-    <item>
-      <title>Suspeitos compravam CNHs falsas por correio em MS e MT, afirma MPE</title>
-      <link>http://g1.globo.com/mato-grosso-do-sul/noticia/2013/04/suspeitos-compravam-cnhs-falsas-por-correio-em-ms-e-mt-afirma-mpe.html</link>
-      <description>&lt;a href='http://g1.globo.com/mato-grosso-do-sul/noticia/2013/04/suspeitos-compravam-cnhs-falsas-por-correio-em-ms-e-mt-afirma-mpe.html' alt='Suspeitos compravam CNHs falsas por correio em MS e MT, afirma MPE'&gt;&lt;img border='0' src='http://s2.glbimg.com/1BUidM3G4Sf6knI84XfIZ3cgeoE=/90x68/s.glbimg.com/jo/g1/f/original/2013/04/11/documento-gaeco1.jpg' alt='Suspeitos compravam CNHs falsas por correio em MS e MT, afirma MPE' title='Suspeitos compravam CNHs falsas por correio em MS e MT, afirma MPE' /&gt;&lt;/a&gt;&lt;br /&gt;Investigação identifica 50 motoristas que estão dirigindo com carteira falsa.
-Falsificadores erram contagem de carga horária de certificados, diz Gaeco.</description>
-      <category>Mato Grosso do Sul</category>
-      <pubDate>Thu, 11 Apr 2013 20:35:56 -0300</pubDate>
-    </item>
-    <item>
-      <title>Petrópolis, RJ, segue trabalho de remoção de lama e entulho em bairros</title>
-      <link>http://g1.globo.com/rj/serra-lagos-norte/noticia/2013/04/petropolis-rj-segue-trabalho-de-remocao-de-lama-e-entulho-em-bairros.html</link>
-      <description>Cerca de 630 homens fazem a limpeza de áreas atingidas pela chuvas.
-Segundo a Comdep, 90% das ruas já foram liberadas.</description>
-      <category>Serra, Lagos e Norte do RJ</category>
-      <pubDate>Thu, 11 Apr 2013 20:35:02 -0300</pubDate>
-    </item>
-    <item>
-      <title>TJ aceita denúncia contra manicure por morte de menino de 6 anos no RJ</title>
-      <link>http://g1.globo.com/rio-de-janeiro/noticia/2013/04/tj-aceita-denuncia-contra-manicure-por-morte-de-menino-de-6-anos-no-rj.html</link>
-      <description>&lt;a href='http://g1.globo.com/rio-de-janeiro/noticia/2013/04/tj-aceita-denuncia-contra-manicure-por-morte-de-menino-de-6-anos-no-rj.html' alt='TJ aceita denúncia contra manicure por morte de menino de 6 anos no RJ'&gt;&lt;img border='0' src='http://s2.glbimg.com/E_ijekqTcTASYZCNiK-nSHNFmQI=/90x68/s.glbimg.com/jo/g1/f/original/2013/03/26/pirai.jpeg' alt='TJ aceita denúncia contra manicure por morte de menino de 6 anos no RJ' title='TJ aceita denúncia contra manicure por morte de menino de 6 anos no RJ' /&gt;&lt;/a&gt;&lt;br /&gt;Susana confessou ter asfixiado João Felipe, de 6 anos, no dia 25 de março.
-Ela responderá por homicídio triplamente qualificado e ocultação de cadáver.</description>
-      <category>Rio de Janeiro</category>
-      <pubDate>Thu, 11 Apr 2013 20:34:06 -0300</pubDate>
-    </item>
-    <item>
-      <title>Após 7 anos, homem que prometeu vingança mata mecânico na Bahia
+    <channel>
+        <title>G1</title>
+        <link>http://g1.globo.com</link>
+        <description></description>
+        <language>pt-BR</language>
+        <copyright>© Todos os direitos reservados.</copyright>
+        <lastBuildDate>Wed, 17 Apr 2013 23:36:19 -0300</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <image>
+            <url>http://g1.globo.com/Portal/globonoticias/img/tit_header_rss.jpg</url>
+            <title>G1</title>
+            <link>http://g1.globo.com</link>
+            <width>144</width>
+            <height>60</height>
+            <description></description>
+        </image>
+        <item>
+            <title>Bloco pedagógico é inaugurado em unidade prisional de Capanema, PA</title>
+            <link>http://g1.globo.com/pa/para/noticia/2013/04/bloco-pedagogico-e-inaugurado-em-unidade-prisional-de-capanema-pa.html</link>
+            <description>&lt;a href='http://g1.globo.com/pa/para/noticia/2013/04/bloco-pedagogico-e-inaugurado-em-unidade-prisional-de-capanema-pa.html' alt='Bloco pedagógico é inaugurado em unidade prisional de Capanema, PA'&gt;&lt;img border='0' src='http://s2.glbimg.com/Ihy9eLL4Ko0ZwWTVmLqhQV8lyLs=/90x68/s.glbimg.com/jo/g1/f/original/2013/04/17/bloco_pedagogico.jpg' alt='Bloco pedagógico é inaugurado em unidade prisional de Capanema, PA' title='Bloco pedagógico é inaugurado em unidade prisional de Capanema, PA' /&gt;&lt;/a&gt;&lt;br /&gt;Local é composto por duas salas, com capacidade para até 25 alunos.
+Aulas começam na próxima semana, em parceria com a Semed.</description>
+            <category>Pará</category>
+            <pubDate>Wed, 17 Apr 2013 23:27:44 -0300</pubDate>
+        </item>
+        <item>
+            <title>Decisão judicial anula afastamento de prefeito e vice em Restinga, SP</title>
+            <link>http://g1.globo.com/sp/ribeirao-preto-franca/noticia/2013/04/decisao-judicial-anula-afastamento-de-prefeito-e-vice-em-restinga-sp.html</link>
+            <description>&lt;a href='http://g1.globo.com/sp/ribeirao-preto-franca/noticia/2013/04/decisao-judicial-anula-afastamento-de-prefeito-e-vice-em-restinga-sp.html' alt='Decisão judicial anula afastamento de prefeito e vice em Restinga, SP'&gt;&lt;img border='0' src='http://s2.glbimg.com/jzl47i2z8NvRBxcE0sfDmwTJ29k=/90x68/s.glbimg.com/jo/g1/f/original/2013/02/18/capturar_copy_1.jpg' alt='Decisão judicial anula afastamento de prefeito e vice em Restinga, SP' title='Decisão judicial anula afastamento de prefeito e vice em Restinga, SP' /&gt;&lt;/a&gt;&lt;br /&gt;Pitt e Luciene Martins são investigados por desvios e falta de licitações.
+Presidente da Câmara também é investigado por aumento salarial em 2012.</description>
+            <category>Ribeirão e Franca</category>
+            <pubDate>Wed, 17 Apr 2013 23:11:20 -0300</pubDate>
+        </item>
+        <item>
+            <title>MPF-AM investiga supostos danos ambientais causados pelo Prosamim</title>
+            <link>http://g1.globo.com/am/amazonas/noticia/2013/04/mpf-am-investiga-supostos-danos-ambientais-causados-pelo-prosamim.html</link>
+            <description>&lt;a href='http://g1.globo.com/am/amazonas/noticia/2013/04/mpf-am-investiga-supostos-danos-ambientais-causados-pelo-prosamim.html' alt='MPF-AM investiga supostos danos ambientais causados pelo Prosamim'&gt;&lt;img border='0' src='http://s2.glbimg.com/EJ3cPM9cuLLlBuD_KI6_DukSmOE=/90x68/s.glbimg.com/jo/g1/f/original/2012/07/19/prosamin.png' alt='MPF-AM investiga supostos danos ambientais causados pelo Prosamim' title='MPF-AM investiga supostos danos ambientais causados pelo Prosamim' /&gt;&lt;/a&gt;&lt;br /&gt;Instituto ingressou com representação apontando irregularidades no projeto.
+Estado terá 30 dias para encaminhar esclarecimentos ao órgão.
+</description>
+            <category>Amazonas</category>
+            <pubDate>Wed, 17 Apr 2013 23:09:23 -0300</pubDate>
+        </item>
+        <item>
+            <title>Matão e Santa Gertrudes também registram epidemia de dengue</title>
+            <link>http://g1.globo.com/sp/sao-carlos-regiao/noticia/2013/04/matao-e-santa-gertrudes-tambem-registram-epidemia-de-dengue.html</link>
+            <description>&lt;a href='http://g1.globo.com/sp/sao-carlos-regiao/noticia/2013/04/matao-e-santa-gertrudes-tambem-registram-epidemia-de-dengue.html' alt='Matão e Santa Gertrudes também registram epidemia de dengue'&gt;&lt;img border='0' src='http://s2.glbimg.com/oaUpm9Ef33LMcUcnQmi1BdP1t6k=/90x68/s.glbimg.com/jo/g1/f/original/2013/04/16/dedet2.jpg' alt='Matão e Santa Gertrudes também registram epidemia de dengue' title='Matão e Santa Gertrudes também registram epidemia de dengue' /&gt;&lt;/a&gt;&lt;br /&gt;Matão contabilizou 457 casos da doença e ainda tem 197 suspeitos.
+Em Santa Gertrudes número chega a 68 e 50 aguardam exames.</description>
+            <category>São Carlos e Região</category>
+            <pubDate>Wed, 17 Apr 2013 23:05:07 -0300</pubDate>
+        </item>
+        <item>
+            <title>Oficina de leitura marca Dia do Livro Infantil em São Luís</title>
+            <link>http://g1.globo.com/ma/maranhao/noticia/2013/04/oficina-de-leitura-marca-dia-do-livro-infantil-em-sao-luis.html</link>
+            <description>Atividade será nesta quinta (18) na UEB Olívio Castelo Branco, às 9h.
+Objetivo é despertar nas crianças o prazer pela leitura.</description>
+            <category>Maranhão</category>
+            <pubDate>Wed, 17 Apr 2013 23:05:02 -0300</pubDate>
+        </item>
+        <item>
+            <title>Incêndio atinge Morro da Praia Mole, no Leste da Ilha de Santa Catarina</title>
+            <link>http://g1.globo.com/sc/santa-catarina/noticia/2013/04/incendio-atinge-morro-da-praia-mole-no-leste-da-ilha-de-santa-catarina.html</link>
+            <description>De acordo com Bombeiros Militares, fogo foi controlado próximo das 22h. Causas do incêndio ainda são desconhecidas; crime é uma possibilidade.</description>
+            <category>Santa Catarina</category>
+            <pubDate>Wed, 17 Apr 2013 23:01:08 -0300</pubDate>
+        </item>
+        <item>
+            <title>Polícia prende assaltantes rastreados por Iphone roubado no Grande Recife</title>
+            <link>http://g1.globo.com/pernambuco/noticia/2013/04/policia-prende-assaltantes-rastreados-por-iphone-roubado-no-grande-recife.html</link>
+            <description>GPS instalado no celular da vítima mostrou localização dos suspeitos.
+Eles foram detidos minutos após cometer crime, no município de Paulista.</description>
+            <category>Pernambuco</category>
+            <pubDate>Wed, 17 Apr 2013 23:00:15 -0300</pubDate>
+        </item>
+        <item>
+            <title>Quatro senegaleses são detidos pela PF tentando entrar no Brasil pelo RS</title>
+            <link>http://g1.globo.com/rs/rio-grande-do-sul/noticia/2013/04/quatro-senegaleses-sao-detidos-pela-pf-tentando-entrar-no-brasil-pelo-rs.html</link>
+            <description>Estrangeiros estavam em táxi argentino e foram parados em uma blitz.
+Eles devem deixar o país em três dias, sob pena de serem deportados.</description>
+            <category>Rio Grande do Sul</category>
+            <pubDate>Wed, 17 Apr 2013 22:57:32 -0300</pubDate>
+        </item>
+        <item>
+            <title>Situação de haitianos em Brasiléia é regularizada </title>
+            <link>http://g1.globo.com/ac/acre/noticia/2013/04/forca-tarefa-regulariza-situacao-de-todos-os-haitianos-que-estao-no-ac.html</link>
+            <description>&lt;a href='http://g1.globo.com/ac/acre/noticia/2013/04/forca-tarefa-regulariza-situacao-de-todos-os-haitianos-que-estao-no-ac.html' alt='Situação de haitianos em Brasiléia é regularizada '&gt;&lt;img border='0' src='http://s2.glbimg.com/sXUXVRG1ebj_Cqf9ELrwIiA0VC8=/90x68/top/s.glbimg.com/jo/g1/f/original/2013/04/14/haitiano1.jpg' alt='Situação de haitianos em Brasiléia é regularizada ' title='Situação de haitianos em Brasiléia é regularizada ' /&gt;&lt;/a&gt;&lt;br /&gt;Com ajuda do governo federal, atendimento aos imigrantes foi agilizado.
+Imigrantes de outros países também serão regularizados.
+</description>
+            <category>Acre</category>
+            <pubDate>Wed, 17 Apr 2013 22:56:40 -0300</pubDate>
+        </item>
+        <item>
+            <title>Receita apreende carros usados por brasileiros com placas do Paraguai
 </title>
-      <link>http://g1.globo.com/bahia/noticia/2013/04/apos-7-anos-homem-que-prometeu-vinganca-mata-mecanico-na-bahia.html</link>
-      <description>Vigia foi preso nesta quinta-feira (11), no Vale das Pedrinhas, em Salvador.
-Há 7 anos, vítima teria assediado a mulher do vigia, que prometeu se vingar.</description>
-      <category>Bahia</category>
-      <pubDate>Thu, 11 Apr 2013 20:31:28 -0300</pubDate>
-    </item>
-    <item>
-      <title>Faltam medicamentos psicotrópicos no maior presídio de MT, diz sindicato</title>
-      <link>http://g1.globo.com/mato-grosso/noticia/2013/04/falta-medicamentos-psicotropicos-no-maior-presidio-de-mt-diz-sindicato.html</link>
-      <description>Secretaria que administra sistema prisional reconheceu problema.
-Sindicato diz que detentos que fazem tratamento correm risco de 'surto'.</description>
-      <category>Mato Grosso</category>
-      <pubDate>Thu, 11 Apr 2013 20:29:46 -0300</pubDate>
-    </item>
-    <item>
-      <title>MPF pede ação imediata ao governo para suprir remédio contra leucemia</title>
-      <link>http://g1.globo.com/sp/campinas-regiao/noticia/2013/04/mpf-pede-acao-imediata-ao-governo-para-suprir-remedio-contra-leucemia.html</link>
-      <description>&lt;a href='http://g1.globo.com/sp/campinas-regiao/noticia/2013/04/mpf-pede-acao-imediata-ao-governo-para-suprir-remedio-contra-leucemia.html' alt='MPF pede ação imediata ao governo para suprir remédio contra leucemia'&gt;&lt;img border='0' src='http://s2.glbimg.com/MYr-tcUnpP2A7QybonAqrYdsOnk=/90x68/s.glbimg.com/jo/g1/f/original/2013/01/19/medicamento_-_final.jpg' alt='MPF pede ação imediata ao governo para suprir remédio contra leucemia' title='MPF pede ação imediata ao governo para suprir remédio contra leucemia' /&gt;&lt;/a&gt;&lt;br /&gt;Fornecedor de laboratório que distribui medicamento vai parar de fabricar.
-Centro Infantil Boldrini, em Campinas, tem estoque para quatro meses.</description>
-      <category>Campinas e Região</category>
-      <pubDate>Thu, 11 Apr 2013 20:29:18 -0300</pubDate>
-    </item>
-    <item>
-      <title>‘A sociedade tem que se mobilizar’, diz mãe de estudante morto em SP</title>
-      <link>http://g1.globo.com/sao-paulo/noticia/2013/04/sociedade-tem-que-se-mobilizar-diz-mae-de-estudante-morto-em-sp.html</link>
-      <description>Victor Hugo Deppman foi assassinado na terça-feira, na Zona Leste de SP.
-Adolescente suspeito se entregou e foi levado à Fundação Casa.</description>
-      <category>São Paulo</category>
-      <pubDate>Thu, 11 Apr 2013 20:28:20 -0300</pubDate>
-    </item>
-    <item>
-      <title>Bebê de dois meses recebe dose de vacina vencida em Carazinho, RS</title>
-      <link>http://g1.globo.com/rs/rio-grande-do-sul/noticia/2013/04/bebe-de-dois-meses-recebe-dose-de-vacina-vencida-em-carazinho-rs.html</link>
-      <description>Medicamento foi aplicado em um posto de saúde do município gaúcho.
-Secretaria da Saúde recolheu vacinas contra o rotavírus para verificação.</description>
-      <category>Rio Grande do Sul</category>
-      <pubDate>Thu, 11 Apr 2013 20:27:18 -0300</pubDate>
-    </item>
-    <item>
-      <title>Polícia Rodoviária Federal apreende veículo contrabandeado em Araxá, MG</title>
-      <link>http://g1.globo.com/minas-gerais/triangulo-mineiro/noticia/2013/04/policia-rodoviaria-federal-apreende-veiculo-contrabandeado-em-araxa-mg.html</link>
-      <description>Carro de origem norte-americana entrou no Brasil pelo Paraguai.
-Caso foi encaminhado para a Polícia Federal, em Uberaba.</description>
-      <category>Triângulo Mineiro</category>
-      <pubDate>Thu, 11 Apr 2013 20:26:38 -0300</pubDate>
-    </item>
-    <item>
-      <title>Exportação de suco de laranja cai em março, mas sobem no ano</title>
-      <link>http://g1.globo.com/economia/agronegocios/noticia/2013/04/exportacao-de-suco-de-laranja-cai-em-marco-mas-sobem-no-ano.html</link>
-      <description>Em 12 meses houve retração de 6,6% na comparação o período de 2012.
-Demanda internacional está retraída, o que pressiona preços internacionais.</description>
-      <category>Agronegócios</category>
-      <pubDate>Thu, 11 Apr 2013 20:26:19 -0300</pubDate>
-    </item>
-    <item>
-      <title>Para prefeito de Contagem, primeiros 100 dias foram ‘de muito trabalho’</title>
-      <link>http://g1.globo.com/minas-gerais/noticia/2013/04/para-prefeito-de-contagem-primeiros-100-dias-foram-de-muito-trabalho.html</link>
-      <description>&lt;a href='http://g1.globo.com/minas-gerais/noticia/2013/04/para-prefeito-de-contagem-primeiros-100-dias-foram-de-muito-trabalho.html' alt='Para prefeito de Contagem, primeiros 100 dias foram ‘de muito trabalho’'&gt;&lt;img border='0' src='http://s2.glbimg.com/IsukBnDX-ZbgAIjL9lNBSBu5Bn4=/90x68/s.glbimg.com/jo/g1/f/original/2012/10/28/carlin-620.jpg' alt='Para prefeito de Contagem, primeiros 100 dias foram ‘de muito trabalho’' title='Para prefeito de Contagem, primeiros 100 dias foram ‘de muito trabalho’' /&gt;&lt;/a&gt;&lt;br /&gt;Carlin Moura (PCdoB) comentou ações realizadas desde o início do ano.
-Político também falou sobre o lançamento da nova logomarca da cidade.</description>
-      <category>Minas Gerais</category>
-      <pubDate>Thu, 11 Apr 2013 20:26:08 -0300</pubDate>
-    </item>
-    <item>
-      <title>Más condições de estradas causam prejuízos a produtores de Araraquara</title>
-      <link>http://g1.globo.com/sp/sao-carlos-regiao/noticia/2013/04/mas-condicoes-de-estradas-causam-prejuizos-produtores-de-araraquara.html</link>
-      <description>&lt;a href='http://g1.globo.com/sp/sao-carlos-regiao/noticia/2013/04/mas-condicoes-de-estradas-causam-prejuizos-produtores-de-araraquara.html' alt='Más condições de estradas causam prejuízos a produtores de Araraquara'&gt;&lt;img border='0' src='http://s2.glbimg.com/5tcXoTl7x0LpmxMlwcFWB0Y5Hw4=/90x68/s.glbimg.com/jo/g1/f/original/2013/04/11/vish2.jpg' alt='Más condições de estradas causam prejuízos a produtores de Araraquara' title='Más condições de estradas causam prejuízos a produtores de Araraquara' /&gt;&lt;/a&gt;&lt;br /&gt;Para moradores do Assentamento Monte Alegre 6, falta manutenção.
-Buracos geram perdas de cargas e caminhões ficam encalhados.</description>
-      <category>São Carlos e Região</category>
-      <pubDate>Thu, 11 Apr 2013 20:25:47 -0300</pubDate>
-    </item>
-    <item>
-      <title>Após 100 dias, veja como andam as propostas do prefeito de Contagem</title>
-      <link>http://g1.globo.com/minas-gerais/noticia/2013/04/apos-100-dias-veja-como-andam-propostas-do-prefeito-de-contagem.html</link>
-      <description>&lt;a href='http://g1.globo.com/minas-gerais/noticia/2013/04/apos-100-dias-veja-como-andam-propostas-do-prefeito-de-contagem.html' alt='Após 100 dias, veja como andam as propostas do prefeito de Contagem'&gt;&lt;img border='0' src='http://s2.glbimg.com/3lcbFVWpVtwF7aM0-jyXbIMMLYY=/90x68/s.glbimg.com/jo/g1/f/original/2013/04/11/assistencia_social_carlin.jpg' alt='Após 100 dias, veja como andam as propostas do prefeito de Contagem' title='Após 100 dias, veja como andam as propostas do prefeito de Contagem' /&gt;&lt;/a&gt;&lt;br /&gt;Prefeitura detalhou o acompanhamento de algumas propostas.
-Prefeito Carlin Moura divulgou metas para 10 temas durante campanha.
-
-</description>
-      <category>Minas Gerais</category>
-      <pubDate>Thu, 11 Apr 2013 20:25:16 -0300</pubDate>
-    </item>
-    <item>
-      <title>Operação da Polícia Federal prende 5 por desvio de verbas no Norte de MG</title>
-      <link>http://g1.globo.com/mg/grande-minas/noticia/2013/04/operacao-da-policia-federal-prende-5-por-desvio-de-verbas-no-norte-de-mg.html</link>
-      <description>&lt;a href='http://g1.globo.com/mg/grande-minas/noticia/2013/04/operacao-da-policia-federal-prende-5-por-desvio-de-verbas-no-norte-de-mg.html' alt='Operação da Polícia Federal prende 5 por desvio de verbas no Norte de MG'&gt;&lt;img border='0' src='http://s2.glbimg.com/yy3Exm-ou9eKWk-wBiV0ZPnnD_s=/90x68/s.glbimg.com/jo/g1/f/original/2013/04/11/mg_5211.jpg' alt='Operação da Polícia Federal prende 5 por desvio de verbas no Norte de MG' title='Operação da Polícia Federal prende 5 por desvio de verbas no Norte de MG' /&gt;&lt;/a&gt;&lt;br /&gt;Segundo PF, grupo causou prejuízos de R$100 milhões aos cofres públicos.
-"De volta para a Máscara" é um desdobramento de operação feita em 2012.</description>
-      <category>Grande Minas</category>
-      <pubDate>Thu, 11 Apr 2013 20:20:03 -0300</pubDate>
-    </item>
-    <item>
-      <title>Pindorama, SP, decreta estado de epidemia por causa da dengue</title>
-      <link>http://g1.globo.com/sao-paulo/sao-jose-do-rio-preto-aracatuba/noticia/2013/04/pindorama-sp-decreta-estado-de-epidemia-por-causa-da-dengue.html</link>
-      <description>&lt;a href='http://g1.globo.com/sao-paulo/sao-jose-do-rio-preto-aracatuba/noticia/2013/04/pindorama-sp-decreta-estado-de-epidemia-por-causa-da-dengue.html' alt='Pindorama, SP, decreta estado de epidemia por causa da dengue'&gt;&lt;img border='0' src='http://s2.glbimg.com/zqVDoRTmgaXCIOZybIaT_1l8w8Q=/90x68/s.glbimg.com/jo/g1/f/original/2012/09/24/dengueinfo.jpg' alt='Pindorama, SP, decreta estado de epidemia por causa da dengue' title='Pindorama, SP, decreta estado de epidemia por causa da dengue' /&gt;&lt;/a&gt;&lt;br /&gt;Com 68 casos em 2013, cidade atinge proporção epidêmica de infectados. 
-Em Rio Preto, mais uma tenda será instalada para atender pacientes. </description>
-      <category>Rio Preto e Araçatuba</category>
-      <pubDate>Thu, 11 Apr 2013 20:20:02 -0300</pubDate>
-    </item>
-    <item>
-      <title>Presos homens suspeitos de burlar sistema de alarme de loja em Mogi</title>
-      <link>http://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2013/04/presos-homens-suspeitos-de-burlar-sistema-de-alarme-de-loja-em-mogi.html</link>
-      <description>Dupla furtou objetos usando uma caixa coberta com fitas adesivas.
-Suspeitos vieram de São Paulo, segundo a PM.
-
-</description>
-      <category>Mogi das Cruzes e Suzano</category>
-      <pubDate>Thu, 11 Apr 2013 20:19:32 -0300</pubDate>
-    </item>
-    <item>
-      <title>Passageiros dizem que aumento de tarifa não condiz com realidade
-</title>
-      <link>http://g1.globo.com/se/sergipe/noticia/2013/04/passageiros-dizem-que-aumento-de-tarifa-nao-condiz-com-realidade.html</link>
-      <description>&lt;a href='http://g1.globo.com/se/sergipe/noticia/2013/04/passageiros-dizem-que-aumento-de-tarifa-nao-condiz-com-realidade.html' alt='Passageiros dizem que aumento de tarifa não condiz com realidade
-'&gt;&lt;img border='0' src='http://s2.glbimg.com/QvlWtEYBu6yrmB7d2L_pWmgrWkU=/90x68/s.glbimg.com/jo/g1/f/original/2013/04/11/dsc_1445.jpg' alt='Passageiros dizem que aumento de tarifa não condiz com realidade
-' title='Passageiros dizem que aumento de tarifa não condiz com realidade
-' /&gt;&lt;/a&gt;&lt;br /&gt;Aracajuanos discordam do reajuste da tarifa de ônibus.
-Vereadores aprovaram o reajuste de R$ 2,25 para R$ 2,45.
-</description>
-      <category>Sergipe</category>
-      <pubDate>Thu, 11 Apr 2013 20:17:58 -0300</pubDate>
-    </item>
-    <item>
-      <title>Tribo Tremembé, no Ceará, forma 1° turma de universidade federal do NE</title>
-      <link>http://g1.globo.com/ceara/nosso-ceara/noticia/2013/04/tribo-tremembe-no-ceara-forma-1-turma-de-universidade-federal-do-ne.html</link>
-      <description>Turma indígena colou grau pela Universidade Federal do Ceará.
-Tribo vive no distrito de Almofala, no município de Itarema.</description>
-      <category>Nosso Ceará</category>
-      <pubDate>Thu, 11 Apr 2013 20:17:14 -0300</pubDate>
-    </item>
-    <item>
-      <title>Seis são presos suspeitos de integrar quadrilha de assaltantes em Breves</title>
-      <link>http://g1.globo.com/pa/para/noticia/2013/04/seis-sao-presos-suspeitos-de-integrar-quadrilha-de-assaltantes-em-breves.html</link>
-      <description>&lt;a href='http://g1.globo.com/pa/para/noticia/2013/04/seis-sao-presos-suspeitos-de-integrar-quadrilha-de-assaltantes-em-breves.html' alt='Seis são presos suspeitos de integrar quadrilha de assaltantes em Breves'&gt;&lt;img border='0' src='http://s2.glbimg.com/fe13ux0WaCa_INVQjEH8omVM68Q=/90x68/s.glbimg.com/jo/g1/f/original/2013/04/11/13729_objetosapreendidos.jpg' alt='Seis são presos suspeitos de integrar quadrilha de assaltantes em Breves' title='Seis são presos suspeitos de integrar quadrilha de assaltantes em Breves' /&gt;&lt;/a&gt;&lt;br /&gt;Entre os presos, estão dois adolescentes e uma mulher.
-Com o bando, foram apreendidos computadores, relógios e celulares.</description>
-      <category>Pará</category>
-      <pubDate>Thu, 11 Apr 2013 20:16:56 -0300</pubDate>
-    </item>
-    <item>
-      <title>'Só saio se mandarem', diz baiana que faz intercâmbio na Coreia do Sul </title>
-      <link>http://g1.globo.com/bahia/noticia/2013/04/so-saio-se-mandarem-diz-baiana-que-faz-intercambio-na-coreia-do-sul.html</link>
-      <description>Jovem de 20 anos fala com os pais todos os dias para deixá-los tranquilos.
-Mesmo com clima tenso, família afirma que coreanos estão 'acostumados'.</description>
-      <category>Bahia</category>
-      <pubDate>Thu, 11 Apr 2013 20:15:09 -0300</pubDate>
-    </item>
-    <item>
-      <title>Araruama, RJ, assina TAC para transporte de doentes crônicos</title>
-      <link>http://g1.globo.com/rj/serra-lagos-norte/noticia/2013/04/araruama-rj-assina-tac-para-transporte-de-doentes-cronicos.html</link>
-      <description>Termo de Ajustamento de Conduta obrigada município a oferecer melhores condições para os pacientes que precisam do transporte.</description>
-      <category>Serra, Lagos e Norte do RJ</category>
-      <pubDate>Thu, 11 Apr 2013 20:15:02 -0300</pubDate>
-    </item>
-    <item>
-      <title>Google terá que indenizar mulher que teve fotos íntimas publicadas em blog</title>
-      <link>http://g1.globo.com/rs/rio-grande-do-sul/noticia/2013/04/google-tera-que-indenizar-mulher-que-teve-fotos-intimas-publicadas-em-blog.html</link>
-      <description>Justiça do RS fixou valor da indenização em R$ 15 mil; não cabe recurso.
-Fotos da mulher fazendo sexo com namorado foram publicadas na web.</description>
-      <category>Rio Grande do Sul</category>
-      <pubDate>Thu, 11 Apr 2013 20:10:34 -0300</pubDate>
-    </item>
-    <item>
-      <title>Polícia Civil prende dois suspeitos de estelionato em Ji-Paraná, RO</title>
-      <link>http://g1.globo.com/ro/rondonia/noticia/2013/04/policia-civil-prende-dois-suspeitos-de-estelionato-em-ji-parana-ro.html</link>
-      <description>Vítimas pagavam quantia antecipada para receber empréstimo.
-Cerca de 30 boletins de ocorrências foram registrados por vítimas à polícia. 
-</description>
-      <category>Rondônia</category>
-      <pubDate>Thu, 11 Apr 2013 20:10:02 -0300</pubDate>
-    </item>
-    <item>
-      <title>Uma das fundadoras do carnaval do Rio, Portela completa 90 anos</title>
-      <link>http://g1.globo.com/rio-de-janeiro/noticia/2013/04/uma-das-fundadoras-do-carnaval-do-rio-portela-completa-90-anos.html</link>
-      <description>&lt;a href='http://g1.globo.com/rio-de-janeiro/noticia/2013/04/uma-das-fundadoras-do-carnaval-do-rio-portela-completa-90-anos.html' alt='Uma das fundadoras do carnaval do Rio, Portela completa 90 anos'&gt;&lt;img border='0' src='http://s2.glbimg.com/fX45bwzS0yYPOxax9m8qqCubwdE=/90x68/top/s.glbimg.com/jo/g1/f/original/2013/02/11/paulinho-da-viola.jpg' alt='Uma das fundadoras do carnaval do Rio, Portela completa 90 anos' title='Uma das fundadoras do carnaval do Rio, Portela completa 90 anos' /&gt;&lt;/a&gt;&lt;br /&gt;Agremiação de Madureira é berço de sambistas como Paulinho da Viola.
-Missa com bolo de aniversário celebra a data, na noite desta quinta (11).
-</description>
-      <category>Rio de Janeiro</category>
-      <pubDate>Thu, 11 Apr 2013 20:08:56 -0300</pubDate>
-    </item>
-    <item>
-      <title>Governo lança edital para duplicação da SC-403, no Norte da Ilha de SC</title>
-      <link>http://g1.globo.com/sc/santa-catarina/noticia/2013/04/governo-lanca-edital-para-duplicacao-da-sc-403-no-norte-da-ilha-de-sc.html</link>
-      <description>Rodovia é a 2ª mais movimentada e entre as dez mais perigosas do estado.
-Foram lançados também editais para melhoria de duas rodovias estaduais. da capital.</description>
-      <category>Santa Catarina</category>
-      <pubDate>Thu, 11 Apr 2013 20:07:50 -0300</pubDate>
-    </item>
-    <item>
-      <title>Artistas indígenas fazem exposição de obras em Roraima</title>
-      <link>http://g1.globo.com/rr/roraima/noticia/2013/04/artistas-indigenas-fazem-exposicao-de-obras-em-roraima.html</link>
-      <description>&lt;a href='http://g1.globo.com/rr/roraima/noticia/2013/04/artistas-indigenas-fazem-exposicao-de-obras-em-roraima.html' alt='Artistas indígenas fazem exposição de obras em Roraima'&gt;&lt;img border='0' src='http://s2.glbimg.com/1sHVvumPcViUHWjJA_EtFWFNVs0=/90x68/s.glbimg.com/jo/g1/f/original/2013/04/11/exposicao8.jpg' alt='Artistas indígenas fazem exposição de obras em Roraima' title='Artistas indígenas fazem exposição de obras em Roraima' /&gt;&lt;/a&gt;&lt;br /&gt;Programação inclui lançamento de um livro e venda de obras.
-Exposição tem apoio da UFRR e da Funai.</description>
-      <category>Roraima</category>
-      <pubDate>Thu, 11 Apr 2013 20:06:43 -0300</pubDate>
-    </item>
-    <item>
-      <title>Secretária Nacional aponta falhas nos centros para crianças e jovens de PE</title>
-      <link>http://g1.globo.com/pernambuco/noticia/2013/04/secretaria-nacional-aponta-falhas-nos-centros-para-criancas-e-jovens-de-pe.html</link>
-      <description>Angélica Goulart visitou, nesta quinta (11), duas unidades da Funase.
-Ela afirmou que é preciso construir novos abrigos para reduzir violência.</description>
-      <category>Pernambuco</category>
-      <pubDate>Thu, 11 Apr 2013 20:05:27 -0300</pubDate>
-    </item>
-    <item>
-      <title>Senado aprova aumento de membros da CCJ</title>
-      <link>http://g1.globo.com/politica/noticia/2013/04/senado-aprova-aumento-de-membros-da-ccj.html</link>
-      <description>Autor do projeto diz que objetivo é garantir apoio suficiente para propor PEC.
-O projeto ainda precisa de promulgação do presidente da Casa.</description>
-      <category>Política</category>
-      <pubDate>Thu, 11 Apr 2013 20:04:28 -0300</pubDate>
-    </item>
-    <item>
-      <title>Audiência discute medidas para recuperar fícus centenários de BH</title>
-      <link>http://g1.globo.com/minas-gerais/noticia/2013/04/audiencia-discute-medidas-para-recuperar-ficus-centenarios-de-bh.html</link>
-      <description>Árvores, consideradas patrimônio, foram atacadas pela mosca branca.
-Segundo levantamento, 227 fícus estão infectados na capital.</description>
-      <category>Minas Gerais</category>
-      <pubDate>Thu, 11 Apr 2013 20:00:57 -0300</pubDate>
-    </item>
-    <item>
-      <title>Seis mil pessoas serão investigadas por mercadorias irregulares, diz PF</title>
-      <link>http://g1.globo.com/sp/santos-regiao/noticia/2013/04/seis-mil-pessoas-serao-investigadas-por-mercadorias-irregulares-diz-pf.html</link>
-      <description>&lt;a href='http://g1.globo.com/sp/santos-regiao/noticia/2013/04/seis-mil-pessoas-serao-investigadas-por-mercadorias-irregulares-diz-pf.html' alt='Seis mil pessoas serão investigadas por mercadorias irregulares, diz PF'&gt;&lt;img border='0' src='http://s2.glbimg.com/0ErwjK5gftTCsERMHvVdr6JSAh4=/90x68/s.glbimg.com/jo/g1/f/original/2013/04/11/produtos.jpg' alt='Seis mil pessoas serão investigadas por mercadorias irregulares, diz PF' title='Seis mil pessoas serão investigadas por mercadorias irregulares, diz PF' /&gt;&lt;/a&gt;&lt;br /&gt;Produtos vieram ao Brasil como bagagem, mas eram encomendas.
-Contêineres estavam na cidade de Guarujá, no litoral de São Paulo.</description>
-      <category>Santos e Região</category>
-      <pubDate>Thu, 11 Apr 2013 19:57:12 -0300</pubDate>
-    </item>
-    <item>
-      <title>Oficiais do Exército de seis países fazem treinamento em Uberlândia</title>
-      <link>http://g1.globo.com/minas-gerais/triangulo-mineiro/noticia/2013/04/oficiais-do-exercito-de-seis-paises-fazem-treinamento-em-uberlandia.html</link>
-      <description>&lt;a href='http://g1.globo.com/minas-gerais/triangulo-mineiro/noticia/2013/04/oficiais-do-exercito-de-seis-paises-fazem-treinamento-em-uberlandia.html' alt='Oficiais do Exército de seis países fazem treinamento em Uberlândia'&gt;&lt;img border='0' src='http://s2.glbimg.com/L-BX7jY7RhPKUKJo68t7hkZs8mw=/90x68/s.glbimg.com/jo/g1/f/original/2013/04/11/exercito.jpg' alt='Oficiais do Exército de seis países fazem treinamento em Uberlândia' title='Oficiais do Exército de seis países fazem treinamento em Uberlândia' /&gt;&lt;/a&gt;&lt;br /&gt;Treinamento faz parte do curso de aperfeiçoamento de oficiais.
-Tropa simulou a defesa do território nacional.</description>
-      <category>Triângulo Mineiro</category>
-      <pubDate>Thu, 11 Apr 2013 19:57:03 -0300</pubDate>
-    </item>
-    <item>
-      <title>Fabricantes listam smartphones de até R$ 1,5 mil que terão preço menor</title>
-      <link>http://g1.globo.com/economia/noticia/2013/04/fabricantes-listam-smartphones-de-ate-r-15-mil-que-terao-preco-menor.html</link>
-      <description>&lt;a href='http://g1.globo.com/economia/noticia/2013/04/fabricantes-listam-smartphones-de-ate-r-15-mil-que-terao-preco-menor.html' alt='Fabricantes listam smartphones de até R$ 1,5 mil que terão preço menor'&gt;&lt;img border='0' src='http://s2.glbimg.com/dqJTWUpeVgYIoZKsRmaO5lbmxGE=/90x68/s.glbimg.com/jo/g1/f/original/2013/04/11/lg-optimus-l9_front_branco1.jpg' alt='Fabricantes listam smartphones de até R$ 1,5 mil que terão preço menor' title='Fabricantes listam smartphones de até R$ 1,5 mil que terão preço menor' /&gt;&lt;/a&gt;&lt;br /&gt;Para Ministério das Comunicações, preço de celulaes pode cair até 30%.
-LG, Motorola e Nokia mostram ao G1 quais serão aparelhos beneficiados.</description>
-      <category>Economia</category>
-      <pubDate>Thu, 11 Apr 2013 19:56:57 -0300</pubDate>
-    </item>
-    <item>
-      <title>Gavião com a asa ferida é recolhido pela Polícia Ambiental no ES
-</title>
-      <link>http://g1.globo.com/espirito-santo/noticia/2013/04/gaviao-com-asa-ferida-e-recolhido-pela-policia-ambiental-no-es.html</link>
-      <description>&lt;a href='http://g1.globo.com/espirito-santo/noticia/2013/04/gaviao-com-asa-ferida-e-recolhido-pela-policia-ambiental-no-es.html' alt='Gavião com a asa ferida é recolhido pela Polícia Ambiental no ES
-'&gt;&lt;img border='0' src='http://s2.glbimg.com/qNPpoGDv6aNXIon-LDXPKcObqlc=/90x68/s.glbimg.com/jo/g1/f/original/2013/04/11/p5_bpma_comunicacao_social_003.jpg' alt='Gavião com a asa ferida é recolhido pela Polícia Ambiental no ES
-' title='Gavião com a asa ferida é recolhido pela Polícia Ambiental no ES
-' /&gt;&lt;/a&gt;&lt;br /&gt;Bicho encontrado em Guaçuí foi identificado como 'gavião-de-cauda-curta'. 
-Animal foi levado para o Hospital Veterinário da Ufes, no campus de Alegre.</description>
-      <category>Espírito Santo</category>
-      <pubDate>Thu, 11 Apr 2013 19:56:43 -0300</pubDate>
-    </item>
-    <item>
-      <title>Mulher morre ao ser atropelada por motoqueiro, em Aracaju</title>
-      <link>http://g1.globo.com/se/sergipe/noticia/2013/04/mulher-morre-ao-ser-atropelada-por-motoqueiro-em-aracaju.html</link>
-      <description>Vítima foi atingida quando atravessava a rua.
-Testemunha disse que motoqueiro não prestou assistência.</description>
-      <category>Sergipe</category>
-      <pubDate>Thu, 11 Apr 2013 19:53:36 -0300</pubDate>
-    </item>
-    <item>
-      <title>Perseguição policial pelas ruas de Vila Velha deixa dois suspeitos feridos
-</title>
-      <link>http://g1.globo.com/espirito-santo/noticia/2013/04/perseguicao-policial-pelas-ruas-de-vila-velha-deixa-dois-suspeitos-feridos.html</link>
-      <description>Perseguição aconteceu na tarde desta quinta-feira (11).
-Um suspeito foi preso e o outro está internado.</description>
-      <category>Espírito Santo</category>
-      <pubDate>Thu, 11 Apr 2013 19:49:47 -0300</pubDate>
-    </item>
-    <item>
-      <title>Motorista embriagado atropela motociclista em Goiânia, diz polícia</title>
-      <link>http://g1.globo.com/goias/noticia/2013/04/motorista-embriagado-atropela-motociclista-em-goiania-diz-policia.html</link>
-      <description>&lt;a href='http://g1.globo.com/goias/noticia/2013/04/motorista-embriagado-atropela-motociclista-em-goiania-diz-policia.html' alt='Motorista embriagado atropela motociclista em Goiânia, diz polícia'&gt;&lt;img border='0' src='http://s2.glbimg.com/7ZJCUic16WPrjGuHtoAsq4mPeyQ=/90x68/s.glbimg.com/jo/g1/f/original/2013/04/11/acidente-moto.jpg' alt='Motorista embriagado atropela motociclista em Goiânia, diz polícia' title='Motorista embriagado atropela motociclista em Goiânia, diz polícia' /&gt;&lt;/a&gt;&lt;br /&gt;Ingestão de bebida alcoólica foi confirmada após o teste do bafômetro.
-Condutor responderá por homicídio; vítima está internada em estado grave.</description>
-      <category>Goiás</category>
-      <pubDate>Thu, 11 Apr 2013 19:48:00 -0300</pubDate>
-    </item>
-    <item>
-      <title>Padrasto espanca bebê após se irritar com choro e acaba preso em MT</title>
-      <link>http://g1.globo.com/mato-grosso/noticia/2013/04/padrasto-espanca-bebe-apos-se-irritar-com-choro-e-acaba-preso-em-mt.html</link>
-      <description>Irmão do bebê, de quatro anos, também era agredido pelo suspeito.
-Tia das vítimas denunciou suspeito que foi preso em Pontes e Lacerda.</description>
-      <category>Mato Grosso</category>
-      <pubDate>Thu, 11 Apr 2013 19:47:08 -0300</pubDate>
-    </item>
-    <item>
-      <title>No Piauí, quilo do tomate pode ser encontrado por R$ 3,50 </title>
-      <link>http://g1.globo.com/pi/piaui/noticia/2013/04/preco-do-tomate-na-ceapi-e-ate-50-menor-do-que-nos-supermercados.html</link>
-      <description>&lt;a href='http://g1.globo.com/pi/piaui/noticia/2013/04/preco-do-tomate-na-ceapi-e-ate-50-menor-do-que-nos-supermercados.html' alt='No Piauí, quilo do tomate pode ser encontrado por R$ 3,50 '&gt;&lt;img border='0' src='http://s2.glbimg.com/nM4pRSP8GMavyxxfaJLrI3ydDQ4=/90x68/s.glbimg.com/jo/g1/f/original/2013/04/11/tomate-na-feira-livre-blog-marcos-frahm.jpg' alt='No Piauí, quilo do tomate pode ser encontrado por R$ 3,50 ' title='No Piauí, quilo do tomate pode ser encontrado por R$ 3,50 ' /&gt;&lt;/a&gt;&lt;br /&gt;Alta no preço do produto foi de 100% no primeiro trimestre deste ano.
-Quilo do tomate chega a ser vendido a R$ 7 em supermercados da região.</description>
-      <category>Piauí</category>
-      <pubDate>Thu, 11 Apr 2013 19:45:51 -0300</pubDate>
-    </item>
-    <item>
-      <title>Preparativos para o Axé Brasil no Mineirão estão na reta final</title>
-      <link>http://g1.globo.com/minas-gerais/musica/axe-brasil/2013/noticia/2013/04/preparativos-para-o-axe-brasil-no-mineirao-estao-na-reta-final.html</link>
-      <description>&lt;a href='http://g1.globo.com/minas-gerais/musica/axe-brasil/2013/noticia/2013/04/preparativos-para-o-axe-brasil-no-mineirao-estao-na-reta-final.html' alt='Preparativos para o Axé Brasil no Mineirão estão na reta final'&gt;&lt;img border='0' src='http://s2.glbimg.com/93s3ovlf06Jd93D2hw292LxMxwc=/90x68/s.glbimg.com/jo/g1/f/original/2013/01/29/mineirao.jpg' alt='Preparativos para o Axé Brasil no Mineirão estão na reta final' title='Preparativos para o Axé Brasil no Mineirão estão na reta final' /&gt;&lt;/a&gt;&lt;br /&gt;Na véspera do show, trabalhadores estão em ritmo acelerado.
-Montagem da estrutura conta com 250 toneladas de equipamentos.</description>
-      <category>Axé Brasil 2013</category>
-      <pubDate>Thu, 11 Apr 2013 19:45:23 -0300</pubDate>
-    </item>
-  </channel>
+            <link>http://g1.globo.com/pr/oeste-sudoeste/noticia/2013/04/receita-apreende-carros-usados-por-brasileiros-com-placas-do-paraguai.html</link>
+            <description>&lt;a href='http://g1.globo.com/pr/oeste-sudoeste/noticia/2013/04/receita-apreende-carros-usados-por-brasileiros-com-placas-do-paraguai.html' alt='Receita apreende carros usados por brasileiros com placas do Paraguai
+'&gt;&lt;img border='0' src='http://s2.glbimg.com/rs5dgzv5U1cf3_tpmDG7iXUTPWE=/90x68/s.glbimg.com/jo/g1/f/original/2013/04/17/sem_titulo_2.jpg' alt='Receita apreende carros usados por brasileiros com placas do Paraguai
+' title='Receita apreende carros usados por brasileiros com placas do Paraguai
+' /&gt;&lt;/a&gt;&lt;br /&gt;Segundo os fiscais, donos moram no Brasil e não regularizaram veículos.
+No país vizinho, alguns modelos são comprados até pela metade do preço.</description>
+            <category>Oeste e Sudoeste</category>
+            <pubDate>Wed, 17 Apr 2013 22:49:20 -0300</pubDate>
+        </item>
+        <item>
+            <title>Sargento da Polícia Militar é executado em Guarujá, SP</title>
+            <link>http://g1.globo.com/sp/santos-regiao/noticia/2013/04/sargento-da-policia-militar-e-executado-em-guaruja-sp.html</link>
+            <description>Crime aconteceu no bairro Pae Cará na noite desta quarta-feira (17).
+Segundo a polícia, os atiradores estavam em um carro prata.</description>
+            <category>Santos e Região</category>
+            <pubDate>Wed, 17 Apr 2013 22:44:21 -0300</pubDate>
+        </item>
+        <item>
+            <title>Alagoas apresenta queda na geração de emprego formal, aponta Caged</title>
+            <link>http://g1.globo.com/al/alagoas/noticia/2013/04/alagoas-apresenta-queda-na-geracao-de-emprego-formal-aponta-caged.html</link>
+            <description>&lt;a href='http://g1.globo.com/al/alagoas/noticia/2013/04/alagoas-apresenta-queda-na-geracao-de-emprego-formal-aponta-caged.html' alt='Alagoas apresenta queda na geração de emprego formal, aponta Caged'&gt;&lt;img border='0' src='http://s2.glbimg.com/4_U04J8xeBP-gz4AuOJKICniGx0=/90x68/s.glbimg.com/jo/g1/f/original/2012/07/10/carteira_de_trabalho.jpeg' alt='Alagoas apresenta queda na geração de emprego formal, aponta Caged' title='Alagoas apresenta queda na geração de emprego formal, aponta Caged' /&gt;&lt;/a&gt;&lt;br /&gt;Demissões no setor sucroalcooleiro contribuiu para o desempenho negativo.
+Números nacionais demonstraram crescimento favoráveis da economia,</description>
+            <category>Alagoas</category>
+            <pubDate>Wed, 17 Apr 2013 22:43:17 -0300</pubDate>
+        </item>
+        <item>
+            <title>Seminário cobra tramitação rápida do Marco Civil da Internet</title>
+            <link>http://g1.globo.com/politica/noticia/2013/04/seminario-cobra-tramitacao-rapida-do-marco-civil-da-internet.html</link>
+            <description>Projeto de lei para regular rede está em debate na Câmara dos Deputados.
+Evento promovido por FGV e Abert discutiu tema nesta quarta em Brasília.</description>
+            <category>Política</category>
+            <pubDate>Wed, 17 Apr 2013 22:43:14 -0300</pubDate>
+        </item>
+        <item>
+            <title>Atração do Rock In Rio se apresenta em Manaus na sexta-feira</title>
+            <link>http://g1.globo.com/am/amazonas/noticia/2013/04/atracao-do-rock-rio-se-apresenta-em-manaus-na-sexta-feira.html</link>
+            <description>&lt;a href='http://g1.globo.com/am/amazonas/noticia/2013/04/atracao-do-rock-rio-se-apresenta-em-manaus-na-sexta-feira.html' alt='Atração do Rock In Rio se apresenta em Manaus na sexta-feira'&gt;&lt;img border='0' src='http://s2.glbimg.com/iBiRPFqgja67EG9tlzrXVKYVHQI=/90x68/s.glbimg.com/jo/g1/f/original/2013/04/17/farris.jpg' alt='Atração do Rock In Rio se apresenta em Manaus na sexta-feira' title='Atração do Rock In Rio se apresenta em Manaus na sexta-feira' /&gt;&lt;/a&gt;&lt;br /&gt;DJ Ferris se apresenta em uma boate na Zona Oeste de Manaus.
+ Segundo DJ, a apresentação de sexta terá set adaptado ao público local.</description>
+            <category>Amazonas</category>
+            <pubDate>Wed, 17 Apr 2013 22:39:03 -0300</pubDate>
+        </item>
+        <item>
+            <title>Acidente mata motoristas de dois carros na BR-153, em Mara Rosa, GO</title>
+            <link>http://g1.globo.com/goias/noticia/2013/04/acidente-mata-motoristas-de-dois-carros-na-br-153-em-mara-rosa-go.html</link>
+            <description>Colisão frontal aconteceu nesta quarta-feira (17); uma mulher ficou ferida.
+Trânsito ficou interditado e congestionamento chegou a 10 quilômetros.</description>
+            <category>Goiás</category>
+            <pubDate>Wed, 17 Apr 2013 22:38:35 -0300</pubDate>
+        </item>
+        <item>
+            <title>Dia dos Indígenas é comemorado no Centur, em Belém</title>
+            <link>http://g1.globo.com/pa/para/noticia/2013/04/dia-dos-indigenas-e-comemorado-no-centur-em-belem.html</link>
+            <description>Programação especial inicia nesta sexta-feira (19).
+Atividades são voltadas para o público infantil.</description>
+            <category>Pará</category>
+            <pubDate>Wed, 17 Apr 2013 22:36:49 -0300</pubDate>
+        </item>
+        <item>
+            <title>Câmara aprova texto principal de projeto que prejudica novos partidos</title>
+            <link>http://g1.globo.com/politica/noticia/2013/04/camara-aprova-texto-principal-de-projeto-que-prejudica-novos-partidos.html</link>
+            <description>Projeto põe fim ao 'efeito PSD', reduzindo tempo de TV e recursos de fundo.
+Lançada em fevereiro, nova legenda de Marina Silva pode ser afetada.</description>
+            <category>Política</category>
+            <pubDate>Wed, 17 Apr 2013 22:34:37 -0300</pubDate>
+        </item>
+        <item>
+            <title>Número de contratações em Santa Catarina cai 18% em março de 2013</title>
+            <link>http://g1.globo.com/sc/santa-catarina/noticia/2013/04/numero-de-contratacoes-em-santa-catarina-cai-18-em-marco-de-2013.html</link>
+            <description>&lt;a href='http://g1.globo.com/sc/santa-catarina/noticia/2013/04/numero-de-contratacoes-em-santa-catarina-cai-18-em-marco-de-2013.html' alt='Número de contratações em Santa Catarina cai 18% em março de 2013'&gt;&lt;img border='0' src='http://s2.glbimg.com/9v4PKwwdkdSwv9DPO1GRbDfy8g4=/90x68/s.glbimg.com/jo/g1/f/original/2012/03/16/emprego.jpg' alt='Número de contratações em Santa Catarina cai 18% em março de 2013' title='Número de contratações em Santa Catarina cai 18% em março de 2013' /&gt;&lt;/a&gt;&lt;br /&gt;Indústria da transformação foi destaque com 7.246 vagas abertas.
+Para Fecomércio, resultado está vinculado à desaceleração da economia.</description>
+            <category>Santa Catarina</category>
+            <pubDate>Wed, 17 Apr 2013 22:33:28 -0300</pubDate>
+        </item>
+        <item>
+            <title>Grupo faz protesto contra aumento da passagem em Passo Fundo, RS</title>
+            <link>http://g1.globo.com/rs/rio-grande-do-sul/noticia/2013/04/grupo-faz-protesto-contra-aumento-da-passagem-em-passo-fundo-rs.html</link>
+            <description>Manifestantes cobram revogação do valor da tarifa do transporte na cidade.
+É a terceira manifestação em menos de 10 dias na cidade do Norte do RS.</description>
+            <category>Rio Grande do Sul</category>
+            <pubDate>Wed, 17 Apr 2013 22:26:29 -0300</pubDate>
+        </item>
+        <item>
+            <title>Ladrões devolvem objetos roubados em escola de Passo Fundo, RS</title>
+            <link>http://g1.globo.com/rs/rio-grande-do-sul/noticia/2013/04/ladroes-devolvem-objetos-roubados-em-escola-de-passo-fundo-rs.html</link>
+            <description>Três dias após roubo, diretora encontrou eletrônicos na porta do colégio.
+TV e aparelho de DVD serão novamente instalados na sala de recreação.</description>
+            <category>Rio Grande do Sul</category>
+            <pubDate>Wed, 17 Apr 2013 22:22:57 -0300</pubDate>
+        </item>
+        <item>
+            <title>Câmara de SP aprova projeto que põe semáforo no amarelo após as 23h</title>
+            <link>http://g1.globo.com/sao-paulo/noticia/2013/04/camara-de-sp-aprova-projeto-que-poe-semaforo-no-amarelo-apos-23h.html</link>
+            <description>Proposta busca evitar assaltos e colisões em cruzamentos da cidade.
+Projeto precisa passar em segunda votação e ser sancionado pelo prefeito.</description>
+            <category>São Paulo</category>
+            <pubDate>Wed, 17 Apr 2013 22:20:39 -0300</pubDate>
+        </item>
+        <item>
+            <title>Aposta de Londrina leva o prêmio de R$ 37 milhões da Mega-Sena</title>
+            <link>http://g1.globo.com/brasil/noticia/2013/04/aposta-de-londrina-leva-o-premio-de-r-37-milhoes-da-mega-sena-17042013.html</link>
+            <description>Uma única aposta fez as 6 dezenas sorteadas: 01 - 06 - 10 - 34 - 40 - 54.
+Outras 174 apostas fizeram a Quina e vão levar R$ 20.176,24 cada.</description>
+            <category>Brasil</category>
+            <pubDate>Wed, 17 Apr 2013 22:16:56 -0300</pubDate>
+        </item>
+        <item>
+            <title>Show 'Caixa Preta' faz homenagem a Itamar Assumpção em Brasília</title>
+            <link>http://g1.globo.com/distrito-federal/noticia/2013/04/show-caixa-preta-faz-homenagem-itamar-assumpcao-em-brasilia.html</link>
+            <description>&lt;a href='http://g1.globo.com/distrito-federal/noticia/2013/04/show-caixa-preta-faz-homenagem-itamar-assumpcao-em-brasilia.html' alt='Show 'Caixa Preta' faz homenagem a Itamar Assumpção em Brasília'&gt;&lt;img border='0' src='http://s2.glbimg.com/K6k8TWRhZjDutPEDbxZVXT0NvXQ=/90x68/s.glbimg.com/jo/g1/f/original/2013/04/17/itamar.jpg' alt='Show 'Caixa Preta' faz homenagem a Itamar Assumpção em Brasília' title='Show 'Caixa Preta' faz homenagem a Itamar Assumpção em Brasília' /&gt;&lt;/a&gt;&lt;br /&gt;Apresentações ocorrem no palco da Caixa Cultural, a partir de quinta (18).
+Filha do cantor, Anelis Assumpção, fecha série do shows, no domingo (21).</description>
+            <category>Distrito Federal</category>
+            <pubDate>Wed, 17 Apr 2013 22:16:44 -0300</pubDate>
+        </item>
+        <item>
+            <title>STF adia decisão sobre regras de benefício social a idosos</title>
+            <link>http://g1.globo.com/politica/noticia/2013/04/stf-adia-decisao-sobre-regras-de-beneficio-social-idosos.html</link>
+            <description>Maioria julgou critério ilegal e entendeu que Congresso deve votar nova lei.
+Julgamento no Supremo foi suspenso antes da conclusão de todos os votos.</description>
+            <category>Política</category>
+            <pubDate>Wed, 17 Apr 2013 22:12:54 -0300</pubDate>
+        </item>
+        <item>
+            <title>Britney Spears vai gravar música para trilha de 'Os Smurfs 2' </title>
+            <link>http://g1.globo.com/musica/noticia/2013/04/britney-spears-vai-gravar-musica-para-trilha-de-os-smurfs-2.html</link>
+            <description>&lt;a href='http://g1.globo.com/musica/noticia/2013/04/britney-spears-vai-gravar-musica-para-trilha-de-os-smurfs-2.html' alt='Britney Spears vai gravar música para trilha de 'Os Smurfs 2' '&gt;&lt;img border='0' src='http://s2.glbimg.com/ZVo9eyvBk4b09zRo_B5X7G9RT9A=/90x68/s.glbimg.com/jo/g1/f/original/2011/11/18/britneyspears_620.jpg' alt='Britney Spears vai gravar música para trilha de 'Os Smurfs 2' ' title='Britney Spears vai gravar música para trilha de 'Os Smurfs 2' ' /&gt;&lt;/a&gt;&lt;br /&gt;Canção inédita 'Ooh la la' vai estar no longa que estreia em agosto. 
+'Amei quando criança, hoje meus filhos são maiores fãs de Smurfs', ela diz.</description>
+            <category>Música</category>
+            <pubDate>Wed, 17 Apr 2013 22:10:40 -0300</pubDate>
+        </item>
+        <item>
+            <title>MP dá prazo para órgãos públicos se explicarem sobre tragédia na Kiss</title>
+            <link>http://g1.globo.com/rs/rio-grande-do-sul/noticia/2013/04/mp-da-prazo-para-orgaos-publicos-se-explicarem-sobre-tragedia-na-kiss.html</link>
+            <description>Prefeitura e Corpo de Bombeiros têm 10 dias para esclarecimentos.
+Ministério Público quer detalhes sobre vistorias e liberação de alvarás.</description>
+            <category>Rio Grande do Sul</category>
+            <pubDate>Wed, 17 Apr 2013 22:05:55 -0300</pubDate>
+        </item>
+        <item>
+            <title>Advogados relatam problemas após  digitalização de ações em Campinas</title>
+            <link>http://g1.globo.com/sp/campinas-regiao/noticia/2013/04/advogados-relatam-problemas-apos-digitalizacao-de-acoes-em-campinas.html</link>
+            <description>Novo sistema deixou distribuição processual mais lenta, dizem defensores.
+Diretor do fórum relatou situação ao Tribunal de Justiça de São Paulo.</description>
+            <category>Campinas e Região</category>
+            <pubDate>Wed, 17 Apr 2013 22:04:21 -0300</pubDate>
+        </item>
+        <item>
+            <title>Em 2 horas, Piracicaba tem o mesmo número de mortes que no 1º bimestre</title>
+            <link>http://g1.globo.com/sp/piracicaba-regiao/noticia/2013/04/em-2-horas-piracicaba-tem-o-mesmo-numero-de-mortes-que-no-1-bimestre.html</link>
+            <description>&lt;a href='http://g1.globo.com/sp/piracicaba-regiao/noticia/2013/04/em-2-horas-piracicaba-tem-o-mesmo-numero-de-mortes-que-no-1-bimestre.html' alt='Em 2 horas, Piracicaba tem o mesmo número de mortes que no 1º bimestre'&gt;&lt;img border='0' src='http://s2.glbimg.com/7K7tuzB8O_mh-uFCnCqnKsVS9xY=/90x68/s.glbimg.com/jo/g1/f/original/2013/04/17/1-2013-04-17_09.57.43.jpg' alt='Em 2 horas, Piracicaba tem o mesmo número de mortes que no 1º bimestre' title='Em 2 horas, Piracicaba tem o mesmo número de mortes que no 1º bimestre' /&gt;&lt;/a&gt;&lt;br /&gt;Seis homens foram assassinados entre as 22h de terça e 0h desta quarta.
+Crimes no Jd. Borghesi e Bosques do Lenheiro assustaram a população.</description>
+            <category>Piracicaba e Região</category>
+            <pubDate>Wed, 17 Apr 2013 22:00:36 -0300</pubDate>
+        </item>
+        <item>
+            <title>Deputados do PR aprovam lei que isenta pagamento do IPVA de 2007</title>
+            <link>http://g1.globo.com/pr/parana/noticia/2013/04/deputados-do-pr-aprovam-lei-que-isenta-pagamento-do-ipva-de-2007.html</link>
+            <description>&lt;a href='http://g1.globo.com/pr/parana/noticia/2013/04/deputados-do-pr-aprovam-lei-que-isenta-pagamento-do-ipva-de-2007.html' alt='Deputados do PR aprovam lei que isenta pagamento do IPVA de 2007'&gt;&lt;img border='0' src='http://s2.glbimg.com/4KQecADptuveqhRn5gBBAxmtLF0=/90x68/s.glbimg.com/jo/g1/f/original/2012/01/16/carros_1.jpg' alt='Deputados do PR aprovam lei que isenta pagamento do IPVA de 2007' title='Deputados do PR aprovam lei que isenta pagamento do IPVA de 2007' /&gt;&lt;/a&gt;&lt;br /&gt;Naquele ano, o imposto de 33.840 veículos não foi pago pelos proprietários.
+Medida de autoria do Executivo representa perda de R$ 11,2 milhões.</description>
+            <category>Paraná</category>
+            <pubDate>Wed, 17 Apr 2013 22:00:18 -0300</pubDate>
+        </item>
+        <item>
+            <title>Direitos Humanos vistoria áreas atingidas por chuva em Petrópolis, RJ</title>
+            <link>http://g1.globo.com/rj/serra-lagos-norte/noticia/2013/04/direitos-humanos-vistoria-areas-atingidas-por-chuva-em-petropolis-rj.html</link>
+            <description>Grupo acompanha os projetos de construções de casas para as vítimas.
+O objetivo é fazer um diagnóstico das áreas afetadas pelo temporal.</description>
+            <category>Serra, Lagos e Norte do RJ</category>
+            <pubDate>Wed, 17 Apr 2013 22:00:03 -0300</pubDate>
+        </item>
+        <item>
+            <title>Desembargador da BA é indicado por Dilma para vaga de ministro do TST</title>
+            <link>http://g1.globo.com/bahia/noticia/2013/04/desembargador-da-ba-e-indicado-por-dilma-para-vaga-de-ministro-do-tst.html</link>
+            <description>Nome de Cláudio Mascarenhas Brandão será agora apreciado pelo Senado.
+Decisão da presidente foi publicada no Diário Oficial na terça-feira (16).</description>
+            <category>Bahia</category>
+            <pubDate>Wed, 17 Apr 2013 21:58:54 -0300</pubDate>
+        </item>
+        <item>
+            <title>Motoristas usam calçada como pista para fugir de engarrafamento no Rio</title>
+            <link>http://g1.globo.com/rio-de-janeiro/vc-no-g1-rj/noticia/2013/04/motoristas-usam-calcada-como-pista-para-fugir-de-engarrafamento-no-rio.html</link>
+            <description>Leitor filmou a situação e enviou as imagens ao VC no G1.
+CET-Rio ainda não se pronunciou sobre o caso.</description>
+            <category>VC no G1 RJ</category>
+            <pubDate>Wed, 17 Apr 2013 21:57:19 -0300</pubDate>
+        </item>
+        <item>
+            <title>Duas são condenadas por agredir idoso com chave de carro em SC</title>
+            <link>http://g1.globo.com/sc/santa-catarina/noticia/2013/04/duas-sao-condenadas-por-agredir-idoso-com-chaves-de-carro-em-sc.html</link>
+            <description>Mulheres foram condenadas a sete anos e cinco meses de reclusão.
+Com a ajuda de uma adolescente, elas invadiram carro e levaram R$ 1.250.</description>
+            <category>Santa Catarina</category>
+            <pubDate>Wed, 17 Apr 2013 21:52:59 -0300</pubDate>
+        </item>
+        <item>
+            <title>Operação investiga cartel de farinha de trigo no Recife e 3 capitais do NE</title>
+            <link>http://g1.globo.com/pernambuco/noticia/2013/04/operacao-investiga-cartel-de-farinha-de-trigo-no-recife-e-3-capitais-do-ne.html</link>
+            <description>Foram cumpridos 15 mandados de busca e apreensão nesta quarta (17).
+De acordo com denúncias, quem descumpria acordos firmados era punido.</description>
+            <category>Pernambuco</category>
+            <pubDate>Wed, 17 Apr 2013 21:51:24 -0300</pubDate>
+        </item>
+        <item>
+            <title>Ar seco vai cobrir quase todo o Brasil na quinta-feira (18)</title>
+            <link>http://g1.globo.com/jornal-nacional/noticia/2013/04/ar-seco-vai-cobrir-quase-todo-o-brasil-na-quinta-feira-18.html</link>
+            <description>O tempo fica aberto e sem chuva entre o Acre, Mato Grosso do Sul, Espírito Santo e o Rio Grande do Sul e da Bahia a Alagoas.</description>
+            <category>Jornal Nacional</category>
+            <pubDate>Wed, 17 Apr 2013 21:44:26 -0300</pubDate>
+        </item>
+        <item>
+            <title>Internauta reclama de descaso da prefeitura com rua em Erechim, RS</title>
+            <link>http://g1.globo.com/rs/rio-grande-do-sul/vc-no-g1-rs/noticia/2013/04/internauta-reclama-de-descaso-da-prefeitura-com-rua-em-erechim-rs.html</link>
+            <description>&lt;a href='http://g1.globo.com/rs/rio-grande-do-sul/vc-no-g1-rs/noticia/2013/04/internauta-reclama-de-descaso-da-prefeitura-com-rua-em-erechim-rs.html' alt='Internauta reclama de descaso da prefeitura com rua em Erechim, RS'&gt;&lt;img border='0' src='http://s2.glbimg.com/-RP_yETI6DkRFup5slZWieHBpkw=/90x68/s.glbimg.com/jo/g1/f/original/2013/04/17/erechim_1.jpg' alt='Internauta reclama de descaso da prefeitura com rua em Erechim, RS' title='Internauta reclama de descaso da prefeitura com rua em Erechim, RS' /&gt;&lt;/a&gt;&lt;br /&gt;Ben Hur Olivo enviou fotos de buracos da Júlio Trombini, no bairro Koller.
+Secretaria de Obras diz que já identificou problemas e promete solução.</description>
+            <category>VC no G1 RS</category>
+            <pubDate>Wed, 17 Apr 2013 21:43:42 -0300</pubDate>
+        </item>
+        <item>
+            <title>Redução do teor de iodo no sal provoca debate entre especialistas</title>
+            <link>http://g1.globo.com/jornal-nacional/noticia/2013/04/reducao-do-teor-de-iodo-no-sal-provoca-debate-entre-especialistas.html</link>
+            <description>Os fabricantes têm 90 dias para fazer adaptações. Segundo o Ministério da Saúde, o brasileiro consome em média 12 gramas de sal por dia.</description>
+            <category>Jornal Nacional</category>
+            <pubDate>Wed, 17 Apr 2013 21:42:16 -0300</pubDate>
+        </item>
+        <item>
+            <title>Deputados discutem projeto que inibe a criação de novos partidos</title>
+            <link>http://g1.globo.com/jornal-nacional/noticia/2013/04/deputados-discutem-projeto-que-inibe-criacao-de-novos-partidos.html</link>
+            <description>Projeto propõe que a distribuição do dinheiro do fundo partidário e do tempo de propaganda no rádio e na TV será feita de acordo com o tamanho das bancadas eleitas em 2010.</description>
+            <category>Jornal Nacional</category>
+            <pubDate>Wed, 17 Apr 2013 21:40:32 -0300</pubDate>
+        </item>
+        <item>
+            <title>Torcedores do Corinthians participam de espécie de reconstituição na Bolívia</title>
+            <link>http://g1.globo.com/jornal-nacional/noticia/2013/04/torcedores-do-corinthians-participam-de-especie-de-reconstituicao-na-bolivia.html</link>
+            <description>Todos foram levados para a arquibancada onde a torcida do Corinthians estava em 20 de fevereiro, dia da morte do adolescente Kevin Espada.</description>
+            <category>Jornal Nacional</category>
+            <pubDate>Wed, 17 Apr 2013 21:36:49 -0300</pubDate>
+        </item>
+        <item>
+            <title>Mais um PM é condenado pela morte da juíza Patrícia Acioli</title>
+            <link>http://g1.globo.com/jornal-nacional/noticia/2013/04/mais-um-pm-e-condenado-pela-morte-da-juiza-patricia-acioli.html</link>
+            <description>O cabo Carlos Adílio Maciel Santos recebeu pena de 19 anos e 6 meses de prisão, por homicídio triplamente qualificado e formação de quadrilha.</description>
+            <category>Jornal Nacional</category>
+            <pubDate>Wed, 17 Apr 2013 21:29:05 -0300</pubDate>
+        </item>
+    </channel>
 </rss>
