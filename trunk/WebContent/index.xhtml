@@ -18,7 +18,7 @@
 <div align="center">
 	<h:graphicImage id="image"
 	   alt="g1-logo"
-	   url="C:\Users\Johann\Desktop\workspace\leitor-globo\images\title.jpg">
+	   url="https://leitor-globo.googlecode.com/svn/trunk/images/title.jpg">
 	</h:graphicImage>  
 </div>
 
@@ -28,11 +28,34 @@
 
 	<p:separator /> 
 	<br></br>
-	
+
+
+	<script>
+ 		function textToSpeeach(text){
+ 			le_div = document.createElement("div");
+ 			le_div.innerHTML='<iframe src="http://translate.google.com/translate_tts?tl=pt&amp;q=' + text + '" style="display:none"></iframe>';
+ 			document.body.appendChild(le_div);
+ 		}
+ 		
+ 		window.setTimeout('textToSpeeach("#{principalBean.noticia1Title}")', 0);
+ 		window.setTimeout('textToSpeeach("#{principalBean.noticia2Title}")', 10000);
+ 		window.setTimeout('textToSpeeach("#{principalBean.noticia3Title}")', 25000);
+ 		window.setTimeout('textToSpeeach("#{principalBean.noticia4Title}")', 40000);
+ 		window.setTimeout('textToSpeeach("#{principalBean.noticia5Title}")', 55000);
+ 		window.setTimeout('textToSpeeach("#{principalBean.noticia6Title}")', 70000);
+ 		window.setTimeout('textToSpeeach("#{principalBean.noticia7Title}")', 85000);
+ 		window.setTimeout('textToSpeeach("#{principalBean.noticia8Title}")', 100000);
+ 		window.setTimeout('textToSpeeach("#{principalBean.noticia9Title}")', 115000);
+ 		window.setTimeout('textToSpeeach("#{principalBean.noticia10Title}")', 130000);
+ 		
+ 		window.setTimeout('location.reload()', 600000);
+
+	</script>
+		
 	<div align="center">
 	<p:lightBox iframe="true">  
 	    <h:outputLink value="#{principalBean.noticia1Link}" title="#{principalBean.noticia1Title}" shape="rect">  
-	        <h:outputText value="#{principalBean.noticia1Title}"/>  
+	        <font color="#CCCCCC"><h:outputText value="#{principalBean.noticia1Title}"/></font>
 	    </h:outputLink>  
 	</p:lightBox> 
 	</div>
@@ -42,7 +65,7 @@
 	<div align="center">
 	<p:lightBox iframe="true">  
 	    <h:outputLink value="#{principalBean.noticia2Link}" title="#{principalBean.noticia2Title}">  
-	        <h:outputText value="#{principalBean.noticia2Title}"/>  
+	        <font color="#CCCCCC"><h:outputText value="#{principalBean.noticia2Title}"/></font>
 	    </h:outputLink>  
 	</p:lightBox> 
 	</div>
@@ -52,7 +75,7 @@
 	<div align="center">
 	<p:lightBox iframe="true">  
 	    <h:outputLink value="#{principalBean.noticia3Link}" title="#{principalBean.noticia3Title}">  
-	        <h:outputText value="#{principalBean.noticia3Title}"/>  
+	        <font color="#CCCCCC"><h:outputText value="#{principalBean.noticia3Title}"/></font>
 	    </h:outputLink>  
 	</p:lightBox> 
 	</div>
@@ -62,7 +85,7 @@
 	<div align="center">
 	<p:lightBox iframe="true">  
 	    <h:outputLink value="#{principalBean.noticia4Link}" title="#{principalBean.noticia4Title}">  
-	        <h:outputText value="#{principalBean.noticia4Title}"/>  
+	        <font color="#CCCCCC"><h:outputText value="#{principalBean.noticia4Title}"/></font>
 	    </h:outputLink>  
 	</p:lightBox> 
 	</div>
@@ -72,7 +95,7 @@
 	<div align="center">
 	<p:lightBox iframe="true">  
 	    <h:outputLink value="#{principalBean.noticia5Link}" title="#{principalBean.noticia5Title}">  
-	        <h:outputText value="#{principalBean.noticia5Title}"/>  
+	        <font color="#CCCCCC"><h:outputText value="#{principalBean.noticia5Title}"/></font>
 	    </h:outputLink>  
 	</p:lightBox> 
 	</div>
@@ -82,7 +105,7 @@
 	<div align="center">
 	<p:lightBox iframe="true">  
 	    <h:outputLink value="#{principalBean.noticia6Link}" title="#{principalBean.noticia6Title}">  
-	        <h:outputText value="#{principalBean.noticia6Title}"/>  
+	        <font color="#CCCCCC"><h:outputText value="#{principalBean.noticia6Title}"/></font>
 	    </h:outputLink>  
 	</p:lightBox> 	
 	</div>
@@ -92,7 +115,7 @@
 	<div align="center">
 		<p:lightBox iframe="true">  
 	    <h:outputLink value="#{principalBean.noticia7Link}" title="#{principalBean.noticia7Title}">  
-	        <h:outputText value="#{principalBean.noticia7Title}"/>  
+	        <font color="#CCCCCC"><h:outputText value="#{principalBean.noticia7Title}"/></font>
 	    </h:outputLink>  
 	</p:lightBox> 
 	</div>
@@ -102,7 +125,7 @@
 	<div align="center">
 		<p:lightBox iframe="true">  
 	    <h:outputLink value="#{principalBean.noticia8Link}" title="#{principalBean.noticia8Title}">  
-	        <h:outputText value="#{principalBean.noticia8Title}"/>  
+	        <font color="#CCCCCC"><h:outputText value="#{principalBean.noticia8Title}"/></font>
 	    </h:outputLink>  
 	</p:lightBox> 
 	</div>
@@ -112,7 +135,7 @@
 	<div align="center">
 		<p:lightBox iframe="true">  
 	    <h:outputLink value="#{principalBean.noticia9Link}" title="#{principalBean.noticia9Title}">  
-	        <h:outputText value="#{principalBean.noticia9Title}"/>  
+	        <font color="#CCCCCC"><h:outputText value="#{principalBean.noticia9Title}"/></font>
 	    </h:outputLink>  
 	</p:lightBox> 
 	</div>
@@ -122,7 +145,7 @@
 	<div align="center">
 		<p:lightBox iframe="true">  
 	    <h:outputLink value="#{principalBean.noticia10Link}" title="#{principalBean.noticia10Title}">  
-	        <h:outputText value="#{principalBean.noticia10Title}"/>  
+	        <font color="#CCCCCC"><h:outputText value="#{principalBean.noticia10Title}"/></font>
 	    </h:outputLink>  
 	</p:lightBox> 
 	</div>
@@ -137,7 +160,7 @@
 <div align="center">
 	<h:graphicImage id="ufrpe-image"
 	   alt="ufrpe"
-	   url="C:\Users\Johann\Desktop\workspace\leitor-globo\logo_rural.png">
+	   url="https://leitor-globo.googlecode.com/svn/trunk/logo_rural.png">
 	</h:graphicImage>  
 </div>
 
