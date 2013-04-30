@@ -6,27 +6,145 @@
 <html xmlns="http://www.w3.org/1999/xhtml"
 	xmlns:h="http://java.sun.com/jsf/html"
 	xmlns:t="http://myfaces.apache.org/tomahawk"
+	xmlns:p="http://primefaces.org/ui"
 >
 
 <h:head>
 	<title>Leitor Globo</title>
 </h:head>
-
+<body bgcolor="#660000"></body>
 <h:body>
 
+<div align="center">
+	<h:graphicImage id="image"
+	   alt="g1-logo"
+	   url="C:\Users\Johann\Desktop\workspace\leitor-globo\images\title.jpg">
+	</h:graphicImage>  
+</div>
+
+<font face="arial" size="5">
 <h:form>
+	<br></br>
 
-#{principalBean.titles}
-
-<!-- <t:dataList id="datalist" style="myStyle" -->
-<!--   var="test" -->
-<!--   value="#{principalBean.titles}" -->
-<!--   rowCountVar="rowCount" -->
-<!--   rowIndexVar="rowIndex" -->
-<!--   layout="simple"> 					 -->
-<!-- </t:dataList> -->
-
+	<p:separator /> 
+	<br></br>
+	
+	<div align="center">
+	<p:lightBox iframe="true">  
+	    <h:outputLink value="#{principalBean.noticia1Link}" title="#{principalBean.noticia1Title}" shape="rect">  
+	        <h:outputText value="#{principalBean.noticia1Title}"/>  
+	    </h:outputLink>  
+	</p:lightBox> 
+	</div>
+	
+	<br></br><br></br>
+	
+	<div align="center">
+	<p:lightBox iframe="true">  
+	    <h:outputLink value="#{principalBean.noticia2Link}" title="#{principalBean.noticia2Title}">  
+	        <h:outputText value="#{principalBean.noticia2Title}"/>  
+	    </h:outputLink>  
+	</p:lightBox> 
+	</div>
+	
+	<br></br><br></br>
+	
+	<div align="center">
+	<p:lightBox iframe="true">  
+	    <h:outputLink value="#{principalBean.noticia3Link}" title="#{principalBean.noticia3Title}">  
+	        <h:outputText value="#{principalBean.noticia3Title}"/>  
+	    </h:outputLink>  
+	</p:lightBox> 
+	</div>
+	
+	<br></br><br></br>
+	
+	<div align="center">
+	<p:lightBox iframe="true">  
+	    <h:outputLink value="#{principalBean.noticia4Link}" title="#{principalBean.noticia4Title}">  
+	        <h:outputText value="#{principalBean.noticia4Title}"/>  
+	    </h:outputLink>  
+	</p:lightBox> 
+	</div>
+	
+	<br></br><br></br>
+	
+	<div align="center">
+	<p:lightBox iframe="true">  
+	    <h:outputLink value="#{principalBean.noticia5Link}" title="#{principalBean.noticia5Title}">  
+	        <h:outputText value="#{principalBean.noticia5Title}"/>  
+	    </h:outputLink>  
+	</p:lightBox> 
+	</div>
+	
+	<br></br><br></br>
+	
+	<div align="center">
+	<p:lightBox iframe="true">  
+	    <h:outputLink value="#{principalBean.noticia6Link}" title="#{principalBean.noticia6Title}">  
+	        <h:outputText value="#{principalBean.noticia6Title}"/>  
+	    </h:outputLink>  
+	</p:lightBox> 	
+	</div>
+	
+	<br></br><br></br>
+	
+	<div align="center">
+		<p:lightBox iframe="true">  
+	    <h:outputLink value="#{principalBean.noticia7Link}" title="#{principalBean.noticia7Title}">  
+	        <h:outputText value="#{principalBean.noticia7Title}"/>  
+	    </h:outputLink>  
+	</p:lightBox> 
+	</div>
+	
+	<br></br><br></br>
+	
+	<div align="center">
+		<p:lightBox iframe="true">  
+	    <h:outputLink value="#{principalBean.noticia8Link}" title="#{principalBean.noticia8Title}">  
+	        <h:outputText value="#{principalBean.noticia8Title}"/>  
+	    </h:outputLink>  
+	</p:lightBox> 
+	</div>
+	
+	<br></br><br></br>
+	
+	<div align="center">
+		<p:lightBox iframe="true">  
+	    <h:outputLink value="#{principalBean.noticia9Link}" title="#{principalBean.noticia9Title}">  
+	        <h:outputText value="#{principalBean.noticia9Title}"/>  
+	    </h:outputLink>  
+	</p:lightBox> 
+	</div>
+	
+	<br></br><br></br>
+	
+	<div align="center">
+		<p:lightBox iframe="true">  
+	    <h:outputLink value="#{principalBean.noticia10Link}" title="#{principalBean.noticia10Title}">  
+	        <h:outputText value="#{principalBean.noticia10Title}"/>  
+	    </h:outputLink>  
+	</p:lightBox> 
+	</div>
+	
+	<br></br><br></br>
+	
+	<h:outputText value="#{principalBean.xmlToView}"></h:outputText>
+	
 </h:form>
+</font>
+
+<div align="center">
+	<h:graphicImage id="ufrpe-image"
+	   alt="ufrpe"
+	   url="C:\Users\Johann\Desktop\workspace\leitor-globo\logo_rural.png">
+	</h:graphicImage>  
+</div>
+
+<!-- <div align="center"> -->
+<!-- 	<font face="consolas" color="grey" size="2">2013 - BACH. SISTEMAS DE INFORMAÇÃO</font>  -->
+<!-- </div> -->
 
 </h:body>
+
 </html>
