@@ -1,0 +1,1 @@
+Projeto da disciplina de Fábrica de Software - Teresa Medeiros Maciel. P.O.: Interno da Globo.com
